@@ -1,0 +1,13 @@
+<table>
+  <tr><th>Služba</th><th>Cena</th></tr>
+  <tr><td>Preventivní prohlídka</td><td>900 Kč</td></tr>
+  <tr><td>Bílá plomba</td><td>od 1 500 Kč</td></tr>
+</table>
+
+<nav>
+  <a href="index.html">Úvod</a> |
+  <a href="cenik.html">Ceník</a> |
+  <a href="galerie.html">Galerie</a>
+</nav>
+
+<a href="mailto:info@zubar-vesely.cz">info@zubar-vesely.cz</a>
