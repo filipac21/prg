@@ -1,0 +1,21 @@
+<table>
+  <tr><th>Služba</th><th>Cena</th></tr>
+  <tr><td>Preventivní prohlídka</td><td>900 Kč</td></tr>
+  <tr><td>Bílá plomba</td><td>od 1 500 Kč</td></tr>
+</table>
+
+<nav>
+  <a href="index.html">Úvod</a> |
+  <a href="cenik.html">Ceník</a> |
+  <a href="galerie.html">Galerie</a>
+</nav>
+
+<a href="mailto:info@zubar-vesely.cz">info@zubar-vesely.cz</a>
+<a href="tel:+420777123456">777 123 456</a>
+
+<figure>
+  <img src="obrazky/ordinace.jpg" alt="Čekárna ordinace s křesly" width="400">
+  <figcaption>Naše čekárna</figcaption>
+</figure>
+
+<footer>© 2026 · web vytvořil KÓD ŽÁKA</footer>
